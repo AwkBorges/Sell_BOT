@@ -1,0 +1,19 @@
+{
+  "name": "bot_vendas",
+  "version": "1.0.0",
+  "description": "bot para vender contas com elo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "awk",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.0",
+    "request": "^2.88.2",
+    "uuid": "^9.0.0"
+  }
+}

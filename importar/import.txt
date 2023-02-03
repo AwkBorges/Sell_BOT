@@ -1,0 +1,5 @@
+user: Gustavo
+password: 123
+elo: gold
+vendedor: junior
+pix: 133123123
